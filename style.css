@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+
+body { background-image:url("AGB_WZ_0309_TOUT.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+h1 {
+text-align: center;
+text-transform: uppercase;
+color: rgb(0, 0, 0);
+}
+h1 {
+text-shadow: 2px 2px 5px rgb(251, 0, 0);
+}
+label {color: rgb(0, 0, 0);
+    text-shadow: 5px 5px 10px rgb(255, 0, 0);
+
+}
+    a:link {
+color: rgb(0, 0, 0);}
+
+
+a:visited {
+color: rgb(0, 0, 0);
+}
+
+
+a:hover {
+color: rgba(0, 195, 255, 0.489);
+}
+
+
+a:active {
+color: rgb(255, 4, 0);}
+
+
+
